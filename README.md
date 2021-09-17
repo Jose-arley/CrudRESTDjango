@@ -6,7 +6,7 @@
 1. Clone repositorio:  
   
 ```console  
-$ git clone +
+$ git clone https://github.com/Jose-arley/CrudRESTDjango.git
 ```  
   
 2. Instale el archivo requirements:  
